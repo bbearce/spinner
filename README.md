@@ -1,4 +1,4 @@
-# Spinner requierments
+# Spinner Requirements
 
 * Spin and it lands on 2.
 * Remove 2 and shuffle.
