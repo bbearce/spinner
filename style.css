@@ -76,9 +76,10 @@ svg#pin {
 .instructions h2:after {
   content: "!";
 }
+
 .instructions h2:before {
   position: absolute;
-  content: "suspicious";
+  content: ""; /* Gloating message - BB */
   font-size: 0.75rem;
   opacity: 0.6;
   bottom: 100%;
