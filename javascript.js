@@ -1,4 +1,4 @@
-SLICE_DESIRED = 15
+SLICE_DESIRED = 16
 NUMBER_OF_SLICES = 30
 
 // target the heading and the button
